@@ -1,0 +1,31 @@
+.Tablero {
+    display: flex;
+    width: 700px;
+    height: 600px;
+    border: 15px solid #fff;
+    overflow: hidden;
+    background-color: #fff;
+    border-radius: 10px;
+}
+
+.columna {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    margin: 0 5px;
+}
+
+.fila {
+    flex: 1;
+    background-color: #02112b;
+    margin: 5px 0;
+    border-radius: 100%;
+}
+
+.rojo {
+    background-color: red;
+}
+
+.amarillo {
+    background-color: yellow;
+}
