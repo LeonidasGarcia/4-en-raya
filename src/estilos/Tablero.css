@@ -1,3 +1,9 @@
+.ContenedorTablero {
+    display: flex;
+    justify-content: center;
+    margin: 50px 0;
+}
+
 .Tablero {
     display: flex;
     width: 700px;
@@ -6,6 +12,10 @@
     overflow: hidden;
     background-color: #fff;
     border-radius: 10px;
+}
+
+.Bloqueado {
+    pointer-events: none;
 }
 
 .columna {
