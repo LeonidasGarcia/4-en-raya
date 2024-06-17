@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/LeonidasGarcia/4-en-raya/static/css/main.913cb4f9.css",
-    "main.js": "/LeonidasGarcia/4-en-raya/static/js/main.048bcd0b.js",
-    "index.html": "/LeonidasGarcia/4-en-raya/index.html",
-    "main.913cb4f9.css.map": "/LeonidasGarcia/4-en-raya/static/css/main.913cb4f9.css.map",
-    "main.048bcd0b.js.map": "/LeonidasGarcia/4-en-raya/static/js/main.048bcd0b.js.map"
+    "main.css": "/4-en-raya/static/css/main.913cb4f9.css",
+    "main.js": "/4-en-raya/static/js/main.048bcd0b.js",
+    "index.html": "/4-en-raya/index.html",
+    "main.913cb4f9.css.map": "/4-en-raya/static/css/main.913cb4f9.css.map",
+    "main.048bcd0b.js.map": "/4-en-raya/static/js/main.048bcd0b.js.map"
   },
   "entrypoints": [
     "static/css/main.913cb4f9.css",
