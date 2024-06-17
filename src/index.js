@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-
+import { BrowserRouter, Route } from "react-router-dom";
 import { Tablero } from "./componentes/componente-tablero/Tablero";
 
 import "./estilos/normalize.css";
@@ -12,10 +12,14 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 
 root.render(
   <>
-    <Cabecera />
-    <TableroContext>
-      <Tablero />
-    </TableroContext>
+    <BrowserRouter>
+      <Route exact path="/">
+        <Cabecera />
+        <TableroContext>
+          <Tablero />
+        </TableroContext>
+      </Route>
+    </BrowserRouter>
   </>
 );
 
