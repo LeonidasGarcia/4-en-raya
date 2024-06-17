@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LeonidasGarcia/4-en-raya.git/static/css/main.913cb4f9.css",
+    "main.js": "/LeonidasGarcia/4-en-raya.git/static/js/main.aac89429.js",
+    "index.html": "/LeonidasGarcia/4-en-raya.git/index.html",
+    "main.913cb4f9.css.map": "/LeonidasGarcia/4-en-raya.git/static/css/main.913cb4f9.css.map",
+    "main.aac89429.js.map": "/LeonidasGarcia/4-en-raya.git/static/js/main.aac89429.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.913cb4f9.css",
+    "static/js/main.aac89429.js"
+  ]
+}
